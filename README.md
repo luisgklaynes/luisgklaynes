@@ -2,7 +2,7 @@
 
 Meu nome é Luis Laynes, sou um curitibano apaixonado por tecnologia. Desde sempre, tive interesse em jogos, depois em aplicativos utilitários, e hoje em automação e sistemas de gerenciamento. Ao longo dos últimos anos, me dediquei a estudar e trabalhar em projetos inovadores, com o objetivo de criar soluções tecnológicas que realmente impactem e facilitem o dia a dia das pessoas. Acredito que a tecnologia tem o poder de transformar vidas, e me esforço para desenvolver produtos que reflitam essa visão.
 
-<img src="https://media1.giphy.com/media/fztPBthxxD4xnN7I4B/giphy.gif?cid=ecf05e47rceaqbzzq0jo2hzb7h57zdp5vkfwzcatbzecj7z4&ep=v1_gifs_gifId&rid=giphy.gif&ct=g" alt="Coding GIF" width="220">
+<img src="https://media2.giphy.com/media/oxO8abhfdowaKQ67OF/giphy.gif?cid=ecf05e47ricjavsbr95ghhrbv8ez5g6m5ipo3wv21l1qgidm&ep=v1_gifs_gifId&rid=giphy.gif&ct=g" alt="Coding GIF" width="220">
 
 ## Product Owner
 
