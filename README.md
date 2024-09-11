@@ -6,7 +6,7 @@ Meu nome é Luis Laynes, sou um curitibano apaixonado por tecnologia. Desde semp
 
 ## Product Owner
 
-Como Product Owner, sou responsável por maximizar o valor entregue pela equipe de desenvolvimento, atuando como o principal ponto de contato entre os stakeholders e a equipe técnica. Meu papel envolve entender profundamente as necessidades do negócio e do cliente, traduzindo essas necessidades em requisitos claros e priorizados no backlog do produto. Com uma abordagem focada em resultados, trabalho para garantir que as funcionalidades desenvolvidas estejam alinhadas com a visão estratégica do produto e agreguem valor real aos usuários.
+Como Product Owner, minha principal responsabilidade é maximizar o valor entregue pela equipe de desenvolvimento, atuando como o elo estratégico entre os stakeholders e a equipe técnica. Meu papel é compreender profundamente as necessidades do negócio e dos clientes, traduzindo essas demandas em requisitos claros e bem priorizados no backlog do produto. Com foco em resultados, asseguro que as funcionalidades desenvolvidas estejam alinhadas à visão estratégica, entregando valor real aos usuários e contribuindo para o sucesso do produto.
 
 <img src="https://media.giphy.com/media/ua7vVw9awZKWwLSYpW/giphy.gif?cid=790b7611ztrd4fdsuykpb6sef7b20j66bnj847lwphtfl6tl&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="200">
 
